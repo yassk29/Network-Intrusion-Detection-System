@@ -1,6 +1,6 @@
-# 🚨 Real-Time Network Packet Intrusion Detection System (RTNIDS)
+# 🚨 Network Packet Intrusion Detection System (NIDS)
 
-A real-time packet analysis and intrusion detection system with a sleek Streamlit dashboard interface.
+A packet analysis and intrusion detection system with a sleek Streamlit dashboard interface.
 
 ---
 
@@ -14,7 +14,7 @@ A real-time packet analysis and intrusion detection system with a sleek Streamli
 
 ---
 
-## 🔧 Version 2 Capabilities
+## 🔧 Version 1 Capabilities
 
 ✅ Packet classification using test CSV  
 ✅ Streamlit dashboard with 3-model comparison  
