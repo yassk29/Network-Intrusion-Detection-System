@@ -16,9 +16,9 @@ A packet analysis and intrusion detection system with a sleek Streamlit dashboar
 
 ## 🔧 Version 1 Capabilities
 
-✅ Packet classification using test CSV  
-✅ Streamlit dashboard with 3-model comparison  
-✅ Metrics visualization + confusion matrix  
+✅ Packet classification using test CSV
+✅ Streamlit dashboard with 3-model comparison
+✅ Metrics visualization + confusion matrix
 
 ---
 
@@ -43,3 +43,8 @@ pip install -r requirements.txt
 
 # 3. Launch Streamlit app
 streamlit run app.py
+```
+
+
+
+## Updated -- after presentation
